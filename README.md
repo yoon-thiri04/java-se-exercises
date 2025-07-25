@@ -13,7 +13,7 @@ This repository includes:
 
 -  **Looping constructs**
 -  **Object creation and class usage**
--  **Java Swing GUI programming** (with many great examples)
+-  **Java Swing GUI programming** (with many great examples- Chapter 14)
 - 🧮 Classic problems like:
   - Factorial
   - Fibonacci
