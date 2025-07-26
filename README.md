@@ -20,11 +20,7 @@ This repository includes:
   - Palindrome
   - Simple Regression
 - 📂 **File I/O handling**
--  **Core OOP Principles**:
-  - Abstraction
-  - Encapsulation
-  - Inheritance
-  - Polymorphism
+-  **Core OOP Principles** (Abstraction, Encapsulation, Inheritance, Polymorphism)
 - 🎶 **Minor music player testing** (fun and experimental)
 
 Feel free to explore, use, or contribute to the exercises!
